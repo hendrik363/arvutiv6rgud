@@ -1,7 +1,7 @@
 # arvutiv6rgud
 Hendrik Metsallik: võrgu testid  
 ```
-Lesson 1  
+Lesson 1*    
   
 Ping - Lubab vaadata kas ühendus on võimalik sinu ja mõne teise hosti vahel.   
 printf - Saab sisestada teksti ja suuda eristada mõnda käsku näiteks \n et tekst hakkaks uuelt realt.  
